@@ -13,7 +13,7 @@
 
 - :zap: I’m passionate about getting new knowledge and becoming a master
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kostiuchenko/)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budankov/)
 
 ----
 ### :hammer_and_wrench: Languages and Tools :
