@@ -8,10 +8,6 @@
 
 
 ### :man_technologist: Technical skills that I will receive:
-- :telescope:  I’m currently working on something cool 
-
-- :rocket: Exploring Front-End Development Galaxy
-
 - :zap: <b>HTML:</b> basics, semantics, a11y.
 - :zap: <b>CSS:</b> basics, flexbox, adaptive and mobile-first css, BEM, SASS.
 - :zap: <b>JavaScript:</b> basics, ES5/ES6+, DOM/BOM, AJAX, patterns, Gulp, Webpack.
