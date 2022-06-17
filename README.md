@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%"/>
 
 
 # Hello, world! I'm Kostya 👋
