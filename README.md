@@ -1,10 +1,10 @@
 
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%"/>
 
 
 # Hello, world! I'm Kostya 👋
-# And i'm taking a Full Stack course - a developer from scratch! 😉
+And i'm taking a Full Stack course - a developer from scratch! 😉
 
 
 ### :man_technologist: Technical skills that I will receive:
