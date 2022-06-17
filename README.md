@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%"/>
 
 
-# Hello, world! I'Kostya 👋
+# Hello, world! I'm Kostya 👋
 
 
 ### :man_technologist: About Me :
