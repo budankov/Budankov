@@ -4,14 +4,20 @@
 
 
 # Hello, world! I'm Kostya 👋
+# And i'm taking a Full Stack course - a developer from scratch! 😉
 
 
-### :man_technologist: About Me :
-- :telescope:  I’m currently working on something cool 😉
+### :man_technologist: Technical skills that I will receive:
+- :telescope:  I’m currently working on something cool 
 
 - :rocket: Exploring Front-End Development Galaxy
 
-- :zap: I’m passionate about getting new knowledge and becoming a master
+- :zap: <b>HTML:</b> basics, semantics, a11y.
+- :zap: <b>CSS:</b> basics, flexbox, adaptive and mobile-first css, BEM, SASS.
+- :zap: <b>JavaScript:</b> basics, ES5/ES6+, DOM/BOM, AJAX, patterns, Gulp, Webpack.
+- :zap: <b>React:</b> basics, state management with Redux, client-side routing, patterns, testing.
+- :zap: <b>NodeJS:</b> vanilla NodeJS, Express, MongoDB, Mongoose, JWT.
+- :zap: <b>Basics and tools:</b> terminal, git, github, npm, babel.
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budankov/)
 
