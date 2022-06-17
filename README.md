@@ -4,7 +4,7 @@
 
 
 # Hello, world! I'm Kostya 👋
-And i'm taking a Full Stack course - a developer from scratch! 😉
+## And i'm taking a Full Stack course - a developer from scratch! 😉
 
 
 ### :man_technologist: Technical skills that I will receive:
