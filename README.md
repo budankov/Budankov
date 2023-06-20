@@ -4,10 +4,10 @@
 
 
 # Hello, world! I'm Kostya 👋
-## And i'm taking a Full Stack course - a developer from scratch from GoIT! 😉
+## I'm a junior Full Stack developer! 😉
 
 
-### :man_technologist: Technical skills that I will receive:
+### :man_technologist: Technical skills I have:
 - :zap: <b>HTML:</b> basics, semantics, a11y.
 - :zap: <b>CSS:</b> basics, flexbox, adaptive and mobile-first css, BEM, SASS.
 - :zap: <b>JavaScript:</b> basics, ES5/ES6+, DOM/BOM, AJAX, patterns, Gulp, Webpack.
